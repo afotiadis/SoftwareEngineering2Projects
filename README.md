@@ -34,8 +34,10 @@ This will be updated when the first assignment is announced. More deliverables w
 ## The rest of the team
 
 - [Giorgos Pittis](https://github.com/gpittis)
-- [Alexandros Fotiadis](https://github.com/afotiadis)
+- [Thanasis Tsarnadelis](https://github.com/tsarnadelis)
 - [Anastasis Gourdomichalis](https://github.com/anasgourd)
+
+- This repo is the fork-produced main branch only repository that includes the final result of the project. If you want to see our job in details check the original repo [here](https://github.com/tsarnadelis/SoftwareEngineering2Projects)
 
 ## Swagger generated server
 
